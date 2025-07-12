@@ -87,7 +87,7 @@ server {
     }
 }
 
-# Run thesese commands:
+# Run these commands:
 
 sudo nginx -t
 sudo systemctl restart nginx
