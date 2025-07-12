@@ -199,7 +199,7 @@ Submit the booking form to:
 
 - SES in **sandbox** mode only allows emails between verified identities
 - Once working, request production SES access to send to any email
-- Use HTTPS and environment variables for production deployments
+- Use HTTPS and environment variables for production deployments and better security.
 - Consider using `pm2` to auto-start your app on reboot
 
 ---
